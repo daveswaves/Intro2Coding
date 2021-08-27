@@ -1,0 +1,7 @@
+#message{
+	display: inline-block;
+	display: none;
+	border: 1px dashed #999;
+	border-radius: 8px;
+	padding: 20px;
+}
