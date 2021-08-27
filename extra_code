@@ -1,0 +1,35 @@
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+<style>
+	*{
+		font-family: verdana;
+	}
+	
+	body{
+		background: black;
+	}
+	
+	#header{
+		background: #00f;
+		color: white;
+		padding: 8px;
+		width: 430px;
+		text-align: center;
+		font-size: 26px;
+	}
+	
+	#box{
+		display: inline-block;
+		background: white;
+		padding-left: 14px;
+		padding-right: 14px;
+		/*border-radius: 8px;*/
+		border-bottom-left-radius: 8px;
+		border-bottom-right-radius: 8px;
+	}
+</style>
+
+<div id="header">JavaScript Password Checker</div>
+<div id="box">
+	
+</div>
